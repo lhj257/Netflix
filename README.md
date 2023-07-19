@@ -7,3 +7,5 @@
 - Flex 사용
 - 반응형 👍
 - 깃허브 페이지 배포
+
+* [사이트접속](https://lhj257.github.io/Netflix/)
